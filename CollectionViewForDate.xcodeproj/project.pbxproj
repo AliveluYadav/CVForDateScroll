@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D6256B6522113F43005B5480 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6256B6422113F43005B5480 /* CollectionViewCell.swift */; };
 		D6C1F8CB220DA57F00FAE355 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C1F8CA220DA57F00FAE355 /* AppDelegate.swift */; };
 		D6C1F8CD220DA57F00FAE355 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C1F8CC220DA57F00FAE355 /* ViewController.swift */; };
 		D6C1F8D0220DA57F00FAE355 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6C1F8CE220DA57F00FAE355 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D6256B6422113F43005B5480 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 		D6C1F8C7220DA57F00FAE355 /* CollectionViewForDate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionViewForDate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6C1F8CA220DA57F00FAE355 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D6C1F8CC220DA57F00FAE355 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		D6C1F8BE220DA57E00FAE355 = {
 			isa = PBXGroup;
 			children = (
+				D6256B6422113F43005B5480 /* CollectionViewCell.swift */,
 				D6C1F8C9220DA57F00FAE355 /* CollectionViewForDate */,
 				D6C1F8E1220DA58C00FAE355 /* CollectionViewForDateTests */,
 				D6C1F8EC220DA58C00FAE355 /* CollectionViewForDateUITests */,
@@ -261,6 +264,7 @@
 			files = (
 				D6C1F8CD220DA57F00FAE355 /* ViewController.swift in Sources */,
 				D6C1F8CB220DA57F00FAE355 /* AppDelegate.swift in Sources */,
+				D6256B6522113F43005B5480 /* CollectionViewCell.swift in Sources */,
 				D6C1F8D3220DA57F00FAE355 /* CollectionViewForDate.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
